@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Series-Game-dev-projects\\calculator-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCF7507-78B0-C2B6-0C67-FFFFDCAFD5FA}|Assembly-CSharp.csproj|d:\\series-game-dev-projects\\calculator-game\\assets\\scripts\\flappybird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCF7507-78B0-C2B6-0C67-FFFFDCAFD5FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flappybird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCF7507-78B0-C2B6-0C67-FFFFDCAFD5FA}|Assembly-CSharp.csproj|D:\\Series-Game-dev-projects\\calculator-game\\assets\\scripts\\pipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCF7507-78B0-C2B6-0C67-FFFFDCAFD5FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PipeManager.cs",
+              "DocumentMoniker": "D:\\Series-Game-dev-projects\\calculator-game\\Assets\\Scripts\\PipeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeManager.cs",
+              "ToolTip": "D:\\Series-Game-dev-projects\\calculator-game\\Assets\\Scripts\\PipeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:34:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlappyBird.cs",
+              "DocumentMoniker": "D:\\Series-Game-dev-projects\\calculator-game\\Assets\\Scripts\\FlappyBird.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlappyBird.cs",
+              "ToolTip": "D:\\Series-Game-dev-projects\\calculator-game\\Assets\\Scripts\\FlappyBird.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlappyBird.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:24:14.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
